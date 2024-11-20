@@ -17,4 +17,5 @@ nav {
     align-content: space-evenly;
     color: white;
     margin-top: 2em;
+    display: flex;
 }
