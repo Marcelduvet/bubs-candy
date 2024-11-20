@@ -2,7 +2,6 @@
     max-width: 1200px;
     margin: 0 auto;
     background-color: darkblue;
-    box-sizing: border-box;
 }
 
 main {
@@ -13,4 +12,5 @@ main {
 
 nav {
     background-color: black;
+    border-radius: 20px;
 }
